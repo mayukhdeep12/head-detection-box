@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/head-detection-box/static/css/main.ed755b1a.css",
+    "main.js": "/head-detection-box/static/js/main.30e4bcf4.js",
+    "static/js/ort-wasm-simd.wasm": "/head-detection-box/static/js/ort-wasm-simd.wasm",
+    "static/js/ort-wasm-simd-threaded.wasm": "/head-detection-box/static/js/ort-wasm-simd-threaded.wasm",
+    "static/js/ort-wasm.wasm": "/head-detection-box/static/js/ort-wasm.wasm",
+    "static/js/ort-wasm-threaded.wasm": "/head-detection-box/static/js/ort-wasm-threaded.wasm",
+    "index.html": "/head-detection-box/index.html",
+    "main.ed755b1a.css.map": "/head-detection-box/static/css/main.ed755b1a.css.map",
+    "main.30e4bcf4.js.map": "/head-detection-box/static/js/main.30e4bcf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed755b1a.css",
+    "static/js/main.30e4bcf4.js"
+  ]
+}
